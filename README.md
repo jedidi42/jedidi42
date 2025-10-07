@@ -11,7 +11,7 @@
 
 ### 🌟 Featured Projects
 - [portfolio](https://github.com/jedidi42/portfolio) – My digital playground and professional showcase
-- [idlepro](https://github.com/jedidi42/idlepro) – Because learning should always be fun (and sometimes idle!)
+- [idlepro](https://idle-pro.vercel.app/) – Because learning should always be fun (and sometimes idle!)
 
 ### 🤹‍♂️ Hobbies
 All over the place! Whether it’s code, coffee, or curiosity—if it’s interesting, I’m probably already trying it.
